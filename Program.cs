@@ -1,5 +1,3 @@
-﻿/*
-
 while (true)
 {
     Console.Write("Type a number: ");
@@ -29,5 +27,3 @@ while (true)
 }
 
 Console.WriteLine("Exiting...");
-
-*/
